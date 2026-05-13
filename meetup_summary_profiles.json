@@ -1,0 +1,16 @@
+{
+  "participants": [
+    {"speaker":"Gwen","displayName":"Gwen","profileSummary":"Audit, conseil et product management. Ex startup SaaS B2B dans la relocation internationale.","activities":["Utilise ChatGPT, Claude, Gemini et NotebookLM","Veut comprendre les agents et la couche technique","Participe à des think tanks IA","N'a pas encore installé OpenClaw"],"lookingFor":"Comprendre l'agentique côté technique et relier enjeux métier + outils."},
+    {"speaker":"Kijoupa","displayName":"Alexandre / Kijoupa","profileSummary":"Créateur d'une plateforme comptable, déploie OpenClaw en prototype.","activities":["Équipe de 4 développeurs","Utilise Claude Code tous les jours, ChatGPT et Gemini","Focus comptabilité, cloud, données","Aide des entreprises à intégrer cloud et data"],"lookingFor":"Sécuriser les preuves et process avant déploiement plus large."},
+    {"speaker":"Marcel","displayName":"Marcel","profileSummary":"Basé à Barcelone, construit une application dans le domaine médical.","activities":["Intéressé par Hermes","A testé OpenClaw puis désinstallé pour raisons de sécurité","Cherche une agentique mieux contrôlée"],"lookingFor":"Comparer Hermes et OpenClaw sur sécurité et contrôle."},
+    {"speaker":"Patrick","displayName":"Patrick","profileSummary":"Graphiste, consultant communication, graphisme et identité visuelle.","activities":["Utilise Gemini, Adobe Firefly, Nano Banana et ChatGPT","Curieux d'OpenClaw","Réticent à donner trop de contrôle à un agent"],"lookingFor":"Comprendre les usages concrets d'OpenClaw pour design et communication."},
+    {"speaker":"Pezo","displayName":"Pezo","profileSummary":"Builder agents IA, gros usage Hermes, MCP, Claude Code et modèles locaux.","activities":["A beaucoup utilisé OpenClaw puis Hermes","Travaille sur délégation Claude Code vers Hermes","Teste Qwen 3.5 / 3.6 local","Pousse l'idée d'un wiki personnel exploitable par agents"],"lookingFor":"Faire tourner des agents performants avec modèles locaux."},
+    {"speaker":"pchartois","displayName":"Philippe / pchartois","profileSummary":"Organisateur du meetup Generative AI à Genève.","activities":["Prochain meetup annoncé le 18 juin","Lieu prévu chez Found à Cornavin","Travaille sur un format plus confortable pour networking"],"lookingFor":"Développer les événements IA Genève avec un meilleur lieu."}
+  ],
+  "meetupSummary": {
+    "title":"Weekly Claw du 13 mai 2026",
+    "bullets":["Session centrée sur Hermes vs OpenClaw, agents locaux, coûts tokens et souveraineté des données.","Installation live de Hermes avec migration OpenClaw et test LM Studio/Gemma 4.","OpenClaw ressort plus clair côté dashboard, contrôle, skills, crons et visibilité.","NemoClaw a été gardé pour une prochaine session."],
+    "keyTopics":["Hermes Nous Research","OpenClaw dashboard","LM Studio","Gemma 4 local","Qwen 3.5 / 3.6","Claude Code","MCP","OpenRouter tokens","Souveraineté des données","Coûts agents","Modèles locaux","Eurya / Infomaniak","Meetup Generative AI Genève"],
+    "followUps":["Préparer une session dédiée NemoClaw.","Encourager les membres à présenter leurs propres workflows.","Explorer une salle IRL côté IBAV / Pont-Rouge.","Noter le meetup Generative AI du 18 juin chez Found à Cornavin."]
+  }
+}
